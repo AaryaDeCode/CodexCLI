@@ -1,0 +1,4 @@
+gitpython
+requests
+sentence-transformers
+scikit-learn
